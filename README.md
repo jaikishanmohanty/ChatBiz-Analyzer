@@ -1,6 +1,8 @@
 <br/>
 <p align="center">
-  <h3 align="center">ChatBizAnalyzer</h3>
+  <h3 align="center">ChatBiz-Analyzer</h3>
+
+  <p align="center"><img src="https://socialify.git.ci/jaikishanmohanty/ChatBiz-Analyzer/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Signal&theme=Light" alt="project-image"></p>
 
   <p align="center">
     Data-Driven Decisions with ChatBiz Analyzer: Drive Results!
@@ -20,25 +22,25 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [License](#license)
+  * [Pull Request](#creating-a-pull-request)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
 ChatBizAnalyzer is a comprehensive and innovative chat analysis tool specifically designed for WhatsApp Business groups. Its primary goal is to empower businesses with deep customer behavior understanding, enabling data-driven decisions and actionable insights for refining marketing strategies. With a robust Exploratory Data Analysis (EDA) approach, this project offers a game-changing solution to enhance customer engagement and boost overall business performance.
-![cbz1](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/e35304d0-a645-4384-9bad-22d97257a88b)  ![cbz2](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/bb21b71f-a4fe-47da-ae8e-426951138181)
-![cbz3](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/b92f08d6-9760-4127-96a4-21390b9ac2c3)  ![cbz4](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/a2befb71-e90b-42be-a239-1422e17c5e88)
-![cbz5](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/5abe5c99-823d-4b8a-9a7a-a505012fc5de)  ![cbz6](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/340570d9-7c0b-4e59-8c50-f84837aa8e67)
-![cbz7](https://github.com/Div-Chaudhary/Chat-Biz-Analyzer/assets/100666304/db4d90b1-f07d-4f1d-9382-3179c42925b9)
 
-<h3>Key Features and C![Uploading cbz7.png…]()
-apabilities</h3>
+
+![cbz1](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/12b19751-070e-4514-99c9-f5cba086667c)  ![cbz2](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/a3735aca-c897-4e4a-a46a-0f1eeb986f0d)
+![cbz3](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/2c3e30c3-926c-4a4b-9a40-38b3f7425db6)  ![cbz4](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/b2579a24-338d-4506-aca4-ab22759e05c9)
+![cbz5](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/0e3e0f6b-e9d5-4a69-a63e-a32f8f6997d0)  ![cbz6](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/4b9c1c81-40d6-4dc6-bf08-764871861fe4)
+![cbz7](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/assets/62710109/db1cc5b1-7460-48f0-aeba-014b482977df)
+
+<h3>Key Features and Capabilities</h3>
 <b>WhatsApp Business Group Analysis:</b> ChatBizAnalyzer specializes in analyzing chat data from WhatsApp Business groups. By leveraging the rich data generated from customer interactions and discussions, businesses can unlock crucial insights that lead to informed decision-making.
 
 <b>Interactive and User-Friendly Interface:</b> This project boasts an elegant and user-friendly interface built using Streamlit, a state-of-the-art Python library. The intuitive design ensures effortless navigation and smooth data analysis, making it accessible to both technical and non-technical users.
 
-<b>Captivating Data Visualizations:</b> Harnessing the power of Matplotlib, ChatBizAnalyzer generates captivating graphs and visualizations. These graphical representations enable businesses to identify trends, patterns, and customer sentiments at a glance, facilitating a deeper understanding of customer behavior.
+<b>Captivating Data Visualizations:</b> Harnessing the power of Matplotlib, ChatBizAnalyzer generates captivating graphs and visualizations. These graphical representations enable businesses to identify trends, patterns, and customer sentiments at a glance, facilitating a deeper understanding of customer behaviour.
 
 <b>Wordcloud Generation for Enhanced Insights:</b> The Wordcloud library is skillfully integrated into the project, allowing the creation of visually appealing wordclouds based on the most frequently used words in customer conversations. These wordclouds offer a unique way to grasp the most prominent topics and keywords in the chat data.
 
@@ -88,7 +90,7 @@ Follow these steps to set up ChatBizAnalyzer on your local machine:
 
 <b>Clone the Repository:</b> Clone the ChatBizAnalyzer repository to your desired location on your computer using Git or by downloading the repository as a ZIP file and extracting it.
 ```sh
-git clone https://github.com/Div-Chaudhary/Chat-Biz-Analyzer.git
+https://github.com/jaikishanmohanty/ChatBiz-Analyzer.git
 ```
 
 <b>Create a Virtual Environment (Recommended):</b> It is best practice to create a virtual environment for ChatBizAnalyzer to isolate its dependencies from other projects. Navigate to the project's root directory and create a virtual environment by running:
@@ -116,7 +118,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-ChatBizAnalyzer provides various insightful analyses and visualizations to help you understand customer behavior and optimize marketing strategies. Here's an overview of the key features and how to use them:
+ChatBizAnalyzer provides various insightful analyses and visualizations to help you understand customer behaviour and optimize marketing strategies. Here's an overview of the key features and how to use them:
 <ul>
 <li><b>Top Statistics Displayed:</b> Get a quick overview of essential statistics related to your WhatsApp Business group, such as the total number of messages, the number of unique users, the most active users, and more.</li>
 
@@ -141,10 +143,9 @@ To use ChatBizAnalyzer, follow the installation steps mentioned in the "Installa
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShaanCoding/ChatBizAnalyzer/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/jaikishanmohanty/ChatBiz-Analyzer/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/ShaanCoding/ChatBizAnalyzer/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -154,10 +155,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/ChatBizAnalyzer/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Div Chaudhary** - *Software Engineering Student* - [Div Chaudhary](https://github.com/Div-Chaudhary)
+* **Jaikishan Mohanty** - *Software Engineering Student* - [Jaikishan Mohanty](https://github.com/jaikishanmohanty)
